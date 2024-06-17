@@ -2,7 +2,7 @@
 Program to calculate Primitive Data Type range in java
 
 
-Data Type	Size	Description
+Data Type	Size	Description \n
 byte - 1 byte - Stores whole numbers from -128 to 127
 short - 2 bytes - Stores whole numbers from -32,768 to 32,767
 int - 4 bytes - Stores whole numbers from -2,147,483,648 to 2,147,483,647
