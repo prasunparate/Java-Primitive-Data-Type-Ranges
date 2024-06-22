@@ -1,5 +1,7 @@
 # Java-Primitive-Data-Type-Ranges
-Program to calculate Primitive Data Type range in java
+
+This program is written in java for finding ranges of various primitive data types present in it.
+One can use this for as a basic program to learn something new.
 
 
 Data - Type	Size - Description 
